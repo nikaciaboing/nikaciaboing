@@ -1,4 +1,4 @@
-<!--### Olá, Bem-vindo ao meu perfil do GitHub!👋
+### Olá, Bem-vindo ao meu perfil do GitHub!👋
 ### Atualmente cursando Bacharelado em Sistemas de Informação no IFC🚀
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikaciaboing&theme=blue-navy&locale=EN)](https://git.io/streak-stats)
