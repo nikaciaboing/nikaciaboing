@@ -1,6 +1,5 @@
-### Olá, meu nome é Nikacia!
-### Bem-vindo ao meu perfil do GitHub👋
-### Atualmente cursando Bacharelado em Sistemas de Informação no IFC🚀
+### Bem-vindo ao meu perfil do GitHub!👋
+### - 🎓 Estudando Bacharelado em Sistemas de Informação no IFC.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=nikaciaboing&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ##
@@ -31,3 +30,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>    
 </div>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikaciaboing)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikaciacarolinaboing@gmail.com)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/nikaciaboing+)
