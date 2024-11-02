@@ -10,7 +10,7 @@
   
 ### Ferramentas e Tecnologias 🛠
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-icon_color=783c00" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -32,6 +32,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-NikaciaBoing-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikaciaboing)](https://www.linkedin.com/in/nikaciaboing)
+[![Linkedin](https://img.shields.io/badge/-NikaciaBoing-beige?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikaciaboing)](https://www.linkedin.com/in/nikaciaboing)
 [![Gmail Badge](https://img.shields.io/badge/-nikaciacarolinaboing@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikaciacarolinaboing@gmail.com)](mailto:nikaciacarolinaboing@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/nikaciaboing?label=follow&style=social)](https://github.com/nikaciaboing)
