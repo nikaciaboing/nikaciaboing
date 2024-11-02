@@ -32,6 +32,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-NikaciaBoing-beige?style=flat-square&logo=Linkedin&logoColor=Blue&link=https://www.linkedin.com/in/nikaciaboing)](https://www.linkedin.com/in/nikaciaboing)
-[![Gmail Badge](https://img.shields.io/badge/-nikaciacarolinaboing@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:nikaciacarolinaboing@gmail.com)](mailto:nikaciacarolinaboing@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-NikaciaBoing-beige?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nikaciaboing)](https://www.linkedin.com/in/nikaciaboing)
+[![Gmail Badge](https://img.shields.io/badge/-nikaciacarolinaboing@gmail.com-006bed?style=baige&logo=Gmail&logoColor=red&link=mailto:nikaciacarolinaboing@gmail.com)](mailto:nikaciacarolinaboing@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/nikaciaboing?label=follow&style=social)](https://github.com/nikaciaboing)
