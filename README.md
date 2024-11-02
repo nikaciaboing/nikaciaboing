@@ -4,7 +4,8 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=NikaciaBoing&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p> Eu sou desenvolvedor Full Stack </p>
-<p> Estudando Bacharelado em Sistemas de Informação no IFC-Instituto Federal Catarinense.</p>
+<p> Estudando Bacharelado em Sistemas de Informação no IFC - 
+  Instituto Federal Catarinense.</p>
 
 ##
   
