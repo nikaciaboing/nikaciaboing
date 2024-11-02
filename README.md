@@ -1,5 +1,5 @@
 ### Olá, meu nome é Nikacia!
-### Bem-vindo ao meu perfil do GitHub!👋
+### Bem-vindo ao meu perfil do GitHub👋
 ### Atualmente cursando Bacharelado em Sistemas de Informação no IFC🚀
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=nikaciaboing&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
@@ -7,7 +7,7 @@
 
 <div>
 <a href="https://github.com/nikaciaboing">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikaciaboing&layout=compact&langs_count=7&icon_color=783c00&bg_color=f8efd4"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikaciaboing&layout=compact&langs_count=7&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/> 
 </div>
   
 ### Ferramentas e Tecnologias 🛠
