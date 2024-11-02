@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil do GitHub!👋
+### - 👋 Bem-vindo ao meu perfil do GitHub!
 ### - 🎓 Estudando Bacharelado em Sistemas de Informação no IFC.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=nikaciaboing&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
@@ -6,7 +6,7 @@
 
 <div>
 <a href="https://github.com/nikaciaboing">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikaciaboing&layout=compact&langs_count=7&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikaciaboing&layout=compact&langs_count=7&&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/> 
 </div>
   
 ### Ferramentas e Tecnologias 🛠
@@ -33,6 +33,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikaciaboing)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikaciacarolinaboing@gmail.com)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/nikaciaboing+)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikaciaboing)](https://www.linkedin.com/in/nikaciaboing)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikaciacarolinaboing@gmail.com)](mailto:nikaciacarolinaboing@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/nikaciaboing)
