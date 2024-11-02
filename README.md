@@ -1,18 +1,13 @@
-### - 👋 Bem-vindo ao meu perfil do GitHub!
-### - 🎓 Estudando Bacharelado em Sistemas de Informação no IFC.
+###  Bem-vindo ao meu perfil do GitHub!
+###  🎓 Estudando Bacharelado em Sistemas de Informação no IFC.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=nikaciaboing&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-### Meu nome é Nikacia!
+Meu nome é Nikacia!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=NikaciaBoing&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p> Eu sou desenvolvedor Full Stack </p>
 
 ##
-
-<div>
-<a href="https://github.com/nikaciaboing">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikaciaboing&layout=compact&langs_count=7&&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/> 
-</div>
   
 ### Ferramentas e Tecnologias 🛠
 <div>
